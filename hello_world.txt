@@ -2,3 +2,4 @@ hello
 hi
 goodbye
 sanaol nalang talaga
+potangina
